@@ -123,11 +123,11 @@ I offer support for individuals, organizations, and research teams in:
 - **Consulting & Collaboration**  
   Guidance on research design, data storytelling, and documentation best practices.
 
-[View more details](./services)
+[View more details](https://github.com/Ekoche1/Services/blob/main/README.md#services-i-offer)
 
 
 ### ❤️ Testimonials
 → [See what past collaborators and clients have said](./testimonials)
 
 ---
-📩 vicekoche97@gmail.com | [LinkedIn]https://ng.linkedin.com/in/ali-victor-ekoche | +2349033658577
+📩 vicekoche97@gmail.com | [LinkedIn](https://ng.linkedin.com/in/ali-victor-ekoche) | +2349033658577
