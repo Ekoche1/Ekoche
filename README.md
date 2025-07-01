@@ -79,17 +79,55 @@ Beyond research, I enjoy exploring ideas through creative nonfiction and persona
 - Did I Make Them Cry Too?(https://vicekoche.wordpress.com/?p=15)
 
 
-### 📊 Analytics Projects (In Progress)
-→ [Upcoming dashboards, visualizations, and analytics work](./analytics-projects)
+<h2>📊 Analytics Projects (In Progress)</h2>
 
-### 🌱 Ongoing Learning
-→ [What I’m currently learning and building](./learning-progress)
+As I expand my skills in data analysis and visualization, I’m working on projects to showcase practical applications across health and social issues. Upcoming analytics work includes:
 
-### 💼 Services I Offer
-→ [Academic writing, data analysis, literature review support, more](./services)
+- **Public Health Trends Dashboard**  
+  Building an interactive dashboard visualizing disease outbreaks, vaccination coverage, and regional health indicators in Nigeria.
+
+- **Health Workforce Analytics**  
+  Exploring data on healthcare professional distribution, shortages, and migration trends, visualized for policy insights.
+
+- **Education & Employment Insights**  
+  Analyzing links between university graduates’ fields of study, degree outcomes, and employment rates in Nigeria.
+
+
+<h2>🌱 Ongoing Learning </h2>
+
+I’m currently a Diploma student in Data Analysis and Visualization at Altschool Africa, building skills in:
+
+- Power BI for interactive dashboards
+- SQL for data querying
+- Python for data analysis and visualization
+- Statistical analysis for evidence-based insights
+- Writing concise data-driven reports
+
+
+<h2>💼 Services I Offer </h2>
+
+I offer support for individuals, organizations, and research teams in:
+
+- **Academic Writing**  
+  Manuscripts, research articles, reports, and technical documents.
+
+- **Data Analysis & Visualization**  
+  Data cleaning, analysis, and creating visual dashboards for insights.
+
+- **Literature Review & Evidence Synthesis**  
+  Comprehensive reviews and summaries to inform research or policy.
+
+- **Content Development**  
+  Clear, engaging writing for blogs, websites, and public communication.
+
+- **Consulting & Collaboration**  
+  Guidance on research design, data storytelling, and documentation best practices.
+
+[View more details](./services)
+
 
 ### ❤️ Testimonials
 → [See what past collaborators and clients have said](./testimonials)
 
 ---
-📩 vicekoche97@gmail.com | [LinkedIn](https://...) | +2349033658577
+📩 vicekoche97@gmail.com | [LinkedIn]https://ng.linkedin.com/in/ali-victor-ekoche | +2349033658577
